@@ -3,7 +3,7 @@
 # for running against the tui-piechart git repo https://github.com/sorinirimies/tui-piechart
 Output "tui-piechart.gif"
 Set Theme "Aardvark Blue"
-Set Width 1600
+Set Width 1200
 Set Height 1000
 Set FontSize 16
 Set Padding 20
